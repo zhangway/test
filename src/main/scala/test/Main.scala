@@ -3,7 +3,7 @@ package test
 object Main {
   
   def add(a: Int, b: Int) = {
-    println("ddd")
+    println("Hello world")
     a+b
   }
 
